@@ -23,7 +23,7 @@ We will start learning how to build beautiful layouts in this course.
 ---
 
 ### Installing VS Code
-We can use any text editor of our choice. Here I am using VS Code because it is light weight, open source & from Microsoft. [cite: 24-29]
+We can use any text editor of our choice. Here I am using VS Code because it is light weight, open source & from Microsoft.
 
 * Go to google, type VS Code & install it.
 * **Note:** You can write HTML even in Notepad. Text editors like VS Code just makes these things easier.

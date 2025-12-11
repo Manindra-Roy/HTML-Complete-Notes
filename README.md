@@ -81,16 +81,6 @@ Comments in HTML are used to mark text which should not be parsed. They can help
 
 HTML is a case insensitive language. `<H1>` and `<h1>` tags are the same.
 
------
-
-### Chapter 1 - Practice Set
-
-1.  Inspect your favorite website and change something on the page which is displayed.
-2.  Go to your favorite website and try to view the page Source and write the exact lines of code. Does it Clone the website? why?
-3.  Write any HTML code inside a text file. Does it work if you write it using notepad?
-
------
-
 ## Chapter 2 - Basic HTML Tags
 
 We can add elements inside the body tag to define the page layout.
@@ -200,17 +190,6 @@ HTML always ignores extra spaces and newlines. In order to display a piece of te
 ```
 -----
 
-### Chapter 2 - Practice Set
-
-1.  Create an HTML page with a heading (title heading), a primary heading and a subheading. Which tags did you use?
-2.  Create a page with 5 wallpaper images taken from the internet.
-3.  Use `br` and `hr` tags to display a piece of text with linebreaks.
-4.  Try to write the following Chemical equation using HTML.
-    C + O2 -\> CO2
-5.  Try to write a wikipedia article using HTML.
-
------
-
 ## Chapter 3 - Creating a page layout
 
 When we use the right tag in right place, it results in a better page layout, better indexing by search engines and better user experience.
@@ -273,16 +252,6 @@ We can add links to images like this:
 ### The Span tag
 
 `span` tag is an inline Container. Takes as much width as necessary.
-
------
-
-### Chapter 3 - Practice Set
-
-1.  Create an SEO friendly wesbite using HTML.
-2.  Create an HTML page which opens google when Clicked on an image.
-3.  Create a website which has your 5 top used websites bookmarked. The links should open in a new tab.
-
------
 
 ## Chapter 4 - Lists, tables & forms
 
@@ -376,17 +345,6 @@ Video tag is used to play videos in HTML.
 
   * **Width:** To adjust width of a video (Height automatically adjusts) 
   * **autoplay / loop:** to autoplay or loop the video.
-
------
-
-### Chapter 4 - Practice Set
-
-1.  Create an HTML page with video embedded inside it.
-2.  Replace this video in 1 with a YouTube video.
-3.  Create an HTML form for a travel website to book a vacation.
-4.  Create a table displaying score of cricket players in a match using HTML.
-
------
 
 Chapter 5 - SEO
 

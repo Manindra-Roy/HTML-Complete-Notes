@@ -44,7 +44,7 @@ We start building a website by creating a file named `index.html`. `index.html` 
     </head>
     <body>                    
         <h1> This is a heading </h1>     
-        <p> My paragraph </p>            
+        <p> My paragraph. </p>            
     </body>                   
 </html>
 ````
